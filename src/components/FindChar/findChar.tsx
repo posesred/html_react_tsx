@@ -1,4 +1,4 @@
-import { characterType } from "../types";
+import { characterType } from "../../types";
 
 type charType = {
   character: characterType[];
